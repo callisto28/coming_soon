@@ -33,7 +33,7 @@ footer{
     font-weight: 200;
     font-size: 1.1em;
     text-transform: uppercase;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.36em;
 
 }
 .text .letter {
@@ -43,15 +43,13 @@ footer{
 h2 {
     font-size: 150%;
     color: rgb(167, 162, 162);
-  
+    padding-left: 0.8em;
+    padding-right: 00.8em;
     border: solid 1px turquoise;
     border-radius: 12px;
     box-shadow: 10px 5px 30px 2px #0ff;
 }
 
-/* .border_neon{
-    box-shadow: 120px 80px 40px 20px #0ff;
-} */
 p,ul,li,td {
     color: black; 
 }
